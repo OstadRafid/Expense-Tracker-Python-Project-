@@ -1,0 +1,18 @@
+ExpenseID -> 101
+Date-> 26-09-2024
+Catagory-> Food
+Description-> Sultan's Dine
+Amount-> 1050
+
+ExpenseID -> 102
+Date-> 25-12-2026
+Catagory-> Cloth
+Description-> Sailor
+Amount-> 1000
+
+ExpenseID -> 103
+Date-> 08-09-2025
+Catagory-> Visit
+Description-> Dhaka to Mawa
+Amount-> 1000
+
